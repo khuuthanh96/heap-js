@@ -1,0 +1,26 @@
+{
+  "name": "heap",
+  "version": "1.0.0",
+  "description": "Heap algorithm for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khuuthanh96/heap-js.git"
+  },
+  "keywords": [
+    "heap",
+    "algorithm"
+  ],
+  "author": "Thanh Khuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khuuthanh96/heap-js/issues"
+  },
+  "homepage": "https://github.com/khuuthanh96/heap-js#readme",
+  "dependencies": {
+    "mocha": "^9.0.2"
+  }
+}
